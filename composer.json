@@ -9,6 +9,7 @@
         "symfony/web-profiler-bundle": "7.3.*"
     },
     "require": {
+        "league/commonmark": "^2.7.1",
         "symfony/console": "7.3.*",
         "symfony/dotenv": "7.3.*",
         "symfony/flex": "^2.8.2",
